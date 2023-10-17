@@ -1,11 +1,11 @@
 ﻿# HRaghavendra
 <h1 align="center">
 <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7F7F7&center=true&width=500&height=60&lines=Hi+There!%2C+Girish+here+.......;Glad+you+are+here!" alt="Typing SVG" /></a>-->
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=5FF709&center=true&vCenter=true&random=false&width=435&lines=Hello+People!+Raghavendra+here+......;Glad+you+are+here!" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&size=25&duration=2500&pause=1000&color=8E2CF7&center=true&vCenter=true&random=false&width=700&lines=Hello+everyone+%26+Welcome!!;HRR+here+%F0%9F%98%89" alt="Typing SVG" /></a>
 </h1>
 <p align="center">
 <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=04F76F&center=true&width=500&height=60&lines=Aspiring+Full-stack-developer!;Exploring+deep+learning+and+AI!!" alt="Typing SVG" /></a>-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=1FE0F7&center=true&vCenter=true&random=false&width=435&lines=Aspiring+Full-stack-developer!;Exploring+deep-learning+and+AI!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&size=25&duration=2500&pause=1000&color=F76E2F&center=true&vCenter=true&random=false&width=700&separator=%3C&lines=Trying+to+be+a+better+programmer+than+I+was+yesterday;" alt="Typing SVG" /></a>
 </p>
 <p>
 	
