@@ -14,15 +14,15 @@
 </p>
 <br/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/girish-theja" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Girish%20Theja-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/h-raghavendra-rao-4b76b6246/" target="_blank">
+	  <img src="https://img.shields.io/badge/LinkedIn-H%20Raghavendra%20Rao-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/girish_thej" target="_blank">
+<!--   <a href="https://twitter.com/girish_thej" target="_blank">
     <img src="https://img.shields.io/twitter/follow/girish_thej?label=Follow&style=social" alt="Twitter">
-  </a>
-  <a href="mailto:hrr200323@gmail.com">
+  </a> -->
+<!--   <a href="mailto:hrr200323@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=flat&logo=gmail" alt="Email">
-  </a>
+  </a> -->
 </p>
  
 </p>
@@ -30,12 +30,12 @@
 <img align="right" alt="Coding" width="400" height="250" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <br>
 
-### Talking about Personal Stuff:
+### About me:
 
-- 🛠 &nbsp; I’m currently working with NodeJS, ReactJS, Android, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: HRaghavendra116@gmail.com.
+- 🐍 &nbsp; Biased towards Python 🐍
+- 🤖 &nbsp; Exploring Web, AI and Cloud Technologies
+- ♟️ &nbsp; An Avid Chess Player
+- 📫 &nbsp; Reach me out: hrr200323@gmail.com.
 
 <br>
 
